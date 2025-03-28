@@ -6,7 +6,7 @@ This project applies advanced volatility modeling techniques — ARCH (Autoregre
 The project explores the distribution, volatility clustering, and time-varying variance of Bitcoin prices, making it relevant for financial analysts, cryptocurrency investors, and risk managers.
 
 ## Dataset
-- Source: Public cryptocurrency data source (e.g., Kaggle or CoinMarketCap)
+- Source: Kaggle
 - Time Frame: Historical daily prices of Bitcoin
 - Variable of Interest: Daily log returns of Bitcoin closing price
 
