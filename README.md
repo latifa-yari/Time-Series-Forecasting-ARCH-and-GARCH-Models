@@ -31,8 +31,8 @@ ARCH & GARCH:
 - Residuals analysis confirmed model assumptions and fitness.
 
 ## Files Included
-- ARCH_GARCH _Updated.ipynb – Jupyter Notebook with full analysis
-- bitcoin_prices.csv – Dataset used (replace with your actual filename)
+- ARCH_GARCH.ipynb – Jupyter Notebook with full analysis
+- BTC-USD.csv – Dataset used
 
 ## Takeaway
 This project demonstrates the practical use of volatility modeling in financial data science. It serves as a solid foundation for roles in quantitative analysis, risk forecasting, or cryptocurrency research.
